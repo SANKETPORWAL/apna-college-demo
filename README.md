@@ -1,4 +1,4 @@
 # apna-college-demo
 this is my first github project
 <br>
-author-shubham 
+author-sanket 
